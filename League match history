@@ -1,4 +1,4 @@
-VV         Kills  Deaths  Assists  minion kills  Gold Value
+         Kills  Deaths  Assists  minion kills  Gold Value
 Victory    1      7        21          80        10,450 
 Defeat     0      8        13          16         9,323
 Defeat     2      8        15          34         9,818
@@ -23,3 +23,4 @@ Victory    1     10        20          12        12,818
 Victory   13      6        11         178        16,634
 Victory   15      9        14         259        20,093
 Victory    1      6        15          27         9,747
+Victory    3      3        11          21         7,327
