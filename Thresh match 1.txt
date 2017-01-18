@@ -34,3 +34,5 @@ Character Specific Match
 
 Thresh     3      3         11         21          7,327
            0      6         22         51          11,330
+
+Volibear   8      3          8         99          10,414
